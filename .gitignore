@@ -1,0 +1,16 @@
+# Files to be ignored
+
+.idea/
+.mvn/
+*.iml
+*.iws
+*.log
+log/
+target/
+src/test/
+src/main/resources/application.properties
+src/main/resources/logback.xml
+mvnw
+mvnw.cmd
+sumzupp-backend.iml
+
